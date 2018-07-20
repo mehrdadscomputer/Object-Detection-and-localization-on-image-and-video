@@ -2,7 +2,7 @@
 <img width="361" alt="1" src="https://user-images.githubusercontent.com/4415508/42995249-9db07b40-8c25-11e8-858e-fe4d0f992576.png">
 <img width="361" alt="5" src="https://user-images.githubusercontent.com/4415508/42991611-5c4ca2e6-8c1b-11e8-89c8-fc59065ad401.png">
 <img width="368" alt="3" src="https://user-images.githubusercontent.com/4415508/42991597-53183c94-8c1b-11e8-909f-a0f39ad22196.png">
-[![Link to my Aparat video!](https://user-images.githubusercontent.com/4415508/42995167-64b0f266-8c25-11e8-99d2-4cba8ed79988.png)](https://www.aparat.com/v/Lquak)
+[![Link to my Aparat video!](![image](https://user-images.githubusercontent.com/4415508/42995167-64b0f266-8c25-11e8-99d2-4cba8ed79988.png))](https://www.aparat.com/v/Lquak)
 
 ## Prerequirement:
 - TensorFlow's Object Detection API to train an object detection classifier for multiple objects

@@ -10,7 +10,9 @@ The purpose of this tutorial is to explain how to run my convolutional neural ne
 At the end of this procedure, you will have a program that can identify and draw boxes around Iran national
 TV channel logos (Channel One, Channel Three and Channel Five) in pictures, videos, or in a webcam feed.
 I used this tutorial to configure, train and run my DNN: [GitHub Pages](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/).
-
+[One](1.png)
+[Three](3.png)
+[Five](5.png)
 
 ## Steps
 ### 1. Install TensorFlow-GPU 1.5 (skip this step if TensorFlow-GPU 1.5 is already installed) and other requirements

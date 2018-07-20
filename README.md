@@ -49,7 +49,7 @@ Install the other necessary packages by issuing the following commands:
 Download the full repository located on this page (scroll to the top and click Clone or Download) and extract all the contents directly into the `C:\Users\[YOUR USER NAME]\Desktop\` directory.
 
 ### 3. Use the model to detect and localize
-To test object detector, move a picture of the object or objects into the root directory of this repository on your computer, and change the IMAGE_NAME variable in the Object_detection_image.py to match the file name of the picture. Alternatively, you can use a video of the objects (using Object_detection_video.py), or just plug in a USB webcam and point it at the objects (using Object_detection_webcam.py).
+To test object detector, move a picture of the object or objects into the root directory of this repository on your computer. Alternatively, you can use a video of the objects (using Object_detection_video.py), or just plug in a USB webcam and point it at the objects (using Object_detection_webcam.py).
 To run any of the scripts, type “idle” in the Anaconda Command Prompt (with the “tensorflow1” virtual environment activated) and press ENTER. This will open IDLE, and from there, in the menu, click on `File` and then click `open` and select one of these scripts according to your need (Object_detection_image.py, Object_detection_video.py and Object_detection_webcam.py). Change the IMAGE_NAME variable in the Object_detection_image.py to match the file name of the picture.
 Then in the `menu`, click on Run and then click `Run Module`.
 

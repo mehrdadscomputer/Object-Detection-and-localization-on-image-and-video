@@ -2,6 +2,8 @@
 <img width="361" alt="1" src="https://user-images.githubusercontent.com/4415508/42995249-9db07b40-8c25-11e8-858e-fe4d0f992576.png">
 <img width="361" alt="5" src="https://user-images.githubusercontent.com/4415508/42991611-5c4ca2e6-8c1b-11e8-89c8-fc59065ad401.png">
 <img width="368" alt="3" src="https://user-images.githubusercontent.com/4415508/42991597-53183c94-8c1b-11e8-909f-a0f39ad22196.png">
+<img width="960" alt="untitled" src="https://user-images.githubusercontent.com/4415508/42996583-3d9f6280-8c29-11e8-80a8-1aa3db1fd204.png">
+
 Link to channel 3 logo detection using webcam (appology for low quality video)
 (https://www.aparat.com/v/Lquak)
 

@@ -1,4 +1,5 @@
 # Object-Detection-and-localization-on-image-and-video
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/4415508/42991480-e9d67b2e-8c1a-11e8-9536-d4dfe2fe2cce.png)](https://www.aparat.com/v/Lquak)
 ## Prerequirement:
 - TensorFlow's Object Detection API to train an object detection classifier for multiple objects
 - TensorFlow-GPU version 1.5 and newer version

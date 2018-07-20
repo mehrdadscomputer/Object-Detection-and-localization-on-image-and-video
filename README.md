@@ -6,7 +6,7 @@
 - CUDA and cuDNN
 
 ## Introduction
-The purpose of this tutorial is to explain how run my convolutional neural network object detection classifier for multiple objects.
+The purpose of this tutorial is to explain how to run my convolutional neural network object detection classifier for multiple objects.
 At the end of this procedure, you will have a program that can identify and draw boxes around Iran national
 TV channel logos (Channel One, Channel Three and Channel Five) in pictures, videos, or in a webcam feed.
 I used this tutorial to configure, train and run my DNN: [GitHub Pages](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/).
